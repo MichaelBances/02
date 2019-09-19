@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'big';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/190916013013big.eot');
+				src: local('big'), url('/wp-content/uploads/useanyfont/190916013013big.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/190916013013big.woff') format('woff');
+			}
+            
+            .big{font-family: 'big' !important;}
+            
+		
